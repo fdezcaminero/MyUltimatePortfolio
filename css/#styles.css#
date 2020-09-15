@@ -1,0 +1,81 @@
+@font-face {
+    src: url(../fonts/Pixeboy-z8XGD.ttf);
+    font-family: Pixeboy;
+}
+
+#btnLeft:active {
+    
+}
+
+.white-text {
+    color: white;
+}
+
+.no-deco {
+    text-decoration: none;
+}
+
+.orange-bg {
+    background-color: orange;
+    color: white;
+}
+
+.black-bg {
+    background-color: black;
+    color: white;
+}
+
+.main-stuff {
+    background-color: #40E0D0;
+}
+
+.main-stuff:hover {
+    border-style: solid;
+}
+
+.pix-font {
+    font-family: Pixeboy, Arial, sans-serif;
+}
+
+.header40px {
+    font-size: 40px;
+}
+
+.font30px {
+    font-size: 30px;
+}
+
+.crazy-parragraph {
+    line-height: 27px;
+    margin-left: 20px;
+}
+
+.svg-white {
+    fill: white;
+}
+
+.height25 {
+    height: 25px;
+}
+
+.blackhov:hover {
+    color: black;
+}
+
+.redhov:hover {
+    color: red;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+/*
+@media only screen and (min-width: 768px) {
+    aside {
+	position: fixed;
+    }
+
+}
+*/

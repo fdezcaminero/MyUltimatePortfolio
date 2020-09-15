@@ -1,0 +1,91 @@
+@font-face {
+  src: url(../fonts/Pixeboy-z8XGD.ttf);
+  font-family: Pixeboy;
+}
+
+/*
+#btnLeft:active {
+}
+*/
+
+.white-text {
+  color: white;
+}
+
+.pixlogos {
+  image-rendering: pixelated;
+}
+
+.no-deco {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.orange-bg {
+  background-color: orange;
+  color: black;
+}
+
+.black-bg {
+  background-color: black;
+  color: white;
+}
+
+.main-stuff {
+  background-color: #40e0d0;
+}
+
+.main-stuff:hover {
+  border-style: solid;
+}
+
+.pix-font {
+  font-family: Pixeboy, Arial, sans-serif;
+}
+
+.header40px {
+  font-size: 40px;
+  line-height: 30px;
+}
+
+.font30px {
+  font-size: 30px;
+}
+
+.crazy-parragraph {
+  line-height: 27px;
+  margin-left: 20px;
+}
+
+.svg-white {
+  fill: white;
+}
+
+.height25 {
+  height: 25px;
+}
+
+.redhov:hover {
+  color: red;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.image-dims {
+  width: 50%;
+}
+
+/*
+@media only screen and (min-width: 768px) {
+    aside {
+	position: fixed;
+    }
+
+}
+*/
